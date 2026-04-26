@@ -109,8 +109,8 @@ document.addEventListener("DOMContentLoaded", function () {
     pcThamNien: 600000,
     pcABC: 1236000,
     luongCoBan: 8710000,
-    pcChucVu: 100000,
-    pcDienThoai: 1500000
+    pcDienThoai: 1500000,
+    pcChucVu: 100000
   };
 
   // Khởi tạo giá trị mặc định phụ cấp (với định dạng)
